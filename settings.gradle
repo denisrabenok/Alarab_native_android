@@ -1,0 +1,2 @@
+include ':app', ':slidesidemenu-library', ':androidtagview', ':library'
+project(':slidesidemenu-library').projectDir = new File('app/slidesidemenu-library')

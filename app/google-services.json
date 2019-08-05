@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "171473912769",
+    "firebase_url": "https://alarab-209710.firebaseio.com",
+    "project_id": "alarab-209710",
+    "storage_bucket": "alarab-209710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171473912769:android:e5b14c018a9ec7ba",
+        "android_client_info": {
+          "package_name": "com.uk.alarab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171473912769-h5rp5vvlbt8tb7gprhbs6tio9od6c1is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uk.alarab",
+            "certificate_hash": "5f101b170d9c58e1d8b5ff742649e51e0e4638ac"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgu1sEMlCj8YCP618xfd2aUbonALVUIT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171473912769-hq7gbh497tkl3hvo2op22kgdddkgt16o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171473912769-urc5hpbklhjaj6p4c85h4k493gbvd9tb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AlArab",
+                "app_store_id": "1436679981"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
